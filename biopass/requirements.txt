@@ -1,0 +1,10 @@
+# Core Dependencies
+dlib==19.24.0
+opencv-python==4.5.5.64
+numpy==1.23.5
+simpleaudio==1.0.4
+scipy==1.9.3
+
+# Development/Testing (optional)
+pytest==7.4.0
+pytest-cov==4.1.0
